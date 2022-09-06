@@ -11,6 +11,8 @@ Work on HP BIOS flashed Updated_Windows 11 Insider Build_25193_rs_prerelease.220
 
 Work on Windows 11 Insider Preview SDK Build_25193 (Official)
 
+Work on Windows 11 Insider Preview WDK Build_25193 (Official)
+
 Work on Visual Visual Studio Insider_v17.3.32825.248 (Official)
 
 Collaborate to ✌🌏 Ǻ₦ტℵᎽᙢ∅μŠ Φ₽₴ ⓶𝟘૨² D3V - development 🌏✌ , Th4nk5 !!!
