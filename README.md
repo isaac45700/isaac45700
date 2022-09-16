@@ -1,7 +1,7 @@
 
 Hi,Hello,Bonjour,❣ Je suis Isaac,I'm Isaac alias Is44cIsm4el,,, @nonYm#us Inc,,,
 
-Interessed by devⓇ Add-ons Mozilla Computers & Mobile Devices (Nightly & Stable Releases),APK-AAB-APKM Modded & Beta Android 11+-12+ & 13+
+DevⓇ Add-ons Mozilla for Computers+Mobile Devices (Nightly & All Releases),APK-AAB-APKM Modded & Beta Android 11+-12+ & 13+
 
 OPPO A54 5G - CPH2195_11 - CPH2195_11_A.14 overclocked, noyau 5.4.86-qkgki-03722-g8588116cde86 NoRoot,NoFlash
 
