@@ -13,6 +13,6 @@ Work on Windows 11 Insiders Preview SDK Build_25193 (Official)
 
 Work on Windows 11 Insiders Preview WDK Build_25193 (Official)
 
-Work on Visual Visual Studio Insiders_v17.3.32825.248 (Official)
+Work on Visual Studio Insiders_v17.3.32825.248 (Official)
 
 Collaborate to ✌🌏 Ǻ₦ტℵᎽᙢ∅μŠ Φ₽₴ ⓶𝟘૨² D3V - development 🌏✌ , Th4nk5 !!!
