@@ -9,12 +9,12 @@ OPPO Reno 8 Pro 5G - Modded 2023
 
 My (Official) OPPO Find X5 Pro "modded in mode An0n,he's Overclocked,Flashed & XDA-Rooted".
 
-Work with FW-BIOS Flashed & Updated_Windows 11 Insider Build_25201.1000_rs_prerelease.220829-1428 Intel overclocked (uud dump)
+Work with FW-BIOS Flashed & Updated_Windows 11 Insider Build 25330.rs_prerelease.230325-1609 Intel overclocked (uud dump)
 
-Work on Windows 11 Insiders Preview SDK Build_25193 (Official)
+Work on Windows 11 Insiders Preview SDK (UnOfficial)
 
-Work on Windows 11 Insiders Preview WDK Build_25193 (Official)
+Work on Windows 11 Insiders Preview WDK (UnOfficial)
 
-Work on Visual Studio Insiders_v17.3.32825.248 (Official)
+Work on Visual Studio Insiders (UnOfficial)
 
 Collaborate to ✌🌏 Ǻ₦ტℵᎽᙢ∅μŠ Φ₽₴ ⓶𝟘૨3 D3V - development 🌏✌ , Th4nk5 !!!
